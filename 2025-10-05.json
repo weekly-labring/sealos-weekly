@@ -450,7 +450,7 @@
     "分支": "",
     "提交内容": "Signed-off-by: yy <lingdie.yy@outlook.com>\n",
     "提交信息": "Signed-off-by: yy <lingdie.yy@outlook.com>",
-    "已提交天数": 409,
+    "已提交天数": 410,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/cri-shim"
   },
@@ -1503,7 +1503,7 @@
     "分支": "",
     "提交内容": "Signed-off-by: Nixieboluo <me@sagirii.me>\nCo-authored-by: jingyang <72259332+zjy365@users.noreply.github.com>",
     "提交信息": "Signed-off-by: Nixieboluo <me@sagirii.me>",
-    "已提交天数": 10,
+    "已提交天数": 11,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos"
   },
@@ -1984,7 +1984,7 @@
     "分支": "",
     "提交内容": "* fix:db cannot be deleted & disable mysql 5.7.42 para config\n\n* fix",
     "提交信息": "Signed-off-by: asterRyan <137432928+PeiranXu-108@users.noreply.github.com>",
-    "已提交天数": 18,
+    "已提交天数": 19,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos"
   },
@@ -2491,7 +2491,7 @@
     "分支": "",
     "提交内容": "* Initial plan\n\n* Fix broken HTTP links in Grafana README\n\nCo-authored-by: cuisongliu <4150905+cuisongliu@users.noreply.github.com>\n\n* feat(ci): exclude deploy/base directory from link checking\n\nAdd deploy/base to lychee.toml exclude_path to skip link checking for all files in the deploy/base directory, which contains third-party Helm charts that may have external links that could break over time.\n\nCo-authored-by: cuisongliu <4150905+cuisongliu@users.noreply.github.com>\n\n* revert(docs): restore original Grafana README links and keep deploy/base exclusion\n\nReverted link fixes in Grafana README since deploy/base directory is now excluded from link checking. This maintains third-party Helm chart integrity while preventing future link check failures.\n\nCo-authored-by: cuisongliu <4150905+cuisongliu@users.noreply.github.com>\n\n---------\n\nCo-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>\nCo-authored-by: cuisongliu <4150905+cuisongliu@users.noreply.github.com>",
     "提交信息": "Signed-off-by: Copilot <198982749+Copilot@users.noreply.github.com>",
-    "已提交天数": 31,
+    "已提交天数": 32,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos"
   },
@@ -6313,7 +6313,7 @@
     "分支": "",
     "提交内容": "fix cert-manager",
     "提交信息": "Signed-off-by: zzjin <zzjin@users.noreply.github.com>",
-    "已提交天数": 479,
+    "已提交天数": 480,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/cluster-image"
   },
@@ -7483,7 +7483,7 @@
     "分支": "tag: v1.18.3",
     "提交内容": "Signed-off-by: cuisongliu <cuisongliu@qq.com>\n",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 771,
+    "已提交天数": 772,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/sync-aliyun"
   },
