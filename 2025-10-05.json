@@ -8981,5 +8981,10 @@
     "已提交天数": 214,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/templates"
+  },
+  {
+    "exitCode": 0,
+    "stderr": "",
+    "stdout": ""
   }
 ]
