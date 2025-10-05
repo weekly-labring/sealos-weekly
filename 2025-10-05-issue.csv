@@ -1,0 +1,237 @@
+repo,issue_number,author,title,closed_at,state,is_bot,exported_at
+labring/sealos,4759,TW199501,新增繁體中文語言支援,2024-09-27 06:54:11,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-admin,31,cuisongliu,workflow 添加保存tar包的流程,2025-09-04 01:59:14,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,1,cuisongliu,参数调优,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring-actions/templates,86,lingdie,typo error,2023-10-16 08:14:28,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4760,zijiren233,deploy/cloud/scripts/init.sh The wrong format of the variable causes the --env parameter parsing to fail.,2024-05-29 07:01:03,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-admin,33,cuisongliu,ai: 拆分双架构,2025-09-04 03:30:56,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,2,cuisongliu,20250821 节点磁盘压力过大导致关键组件被驱除,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring-actions/templates,205,BigTomM,LibreChat cannot be deployed in Guangzhou,2024-03-25 06:37:55,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4764,zijiren233,"cloud-port=8443时安装cloud会发生错误 `no endpoints available for service ""ingress-noinx-controller-admission""`",2024-06-26 08:32:15,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-admin,35,cuisongliu,${{ github.sha }} 太长，需要和 docker镜像保持一致,2025-09-04 04:10:00,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,3,cuisongliu,20250729 cert-manager申请证书卡住,2025-09-15 04:05:22,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring-actions/templates,223,tianshanghong,Wrong `tls.secretName` in Template Causes SSL Certificate Issue,2024-03-25 06:34:55,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4766,zijiren233,Transfer error: transfer error,2024-06-27 13:42:04,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,4,cuisongliu,20250804 Cloudflare DNS API 升级导致证书无法签发,2025-09-14 11:32:11,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring-actions/templates,292,catdddmouse,dify启动不了，现在访问一直报跨域的问题，应该api的服务没有启动,2024-08-08 06:25:31,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4769,zhengyazhao,BUG: brief description of the bug,2024-10-05 01:06:00,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,5,cuisongliu,sync image scripts,2025-09-11 12:20:04,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring-actions/templates,415,PythonPlayerJack,odoo_Create odoo in Sealos APP store,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4770,yulinor,Failed to transfer image during installation,2024-06-10 14:59:56,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,7,cuisongliu,脚本重构,2025-09-11 12:36:03,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring-actions/templates,440,ifzzh,仓库很多pr没人审核,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4774,xmwilldo,BUG: The local registry has a large number of network connections that will not be released,2024-06-17 07:13:00,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,9,cuisongliu,✨ Set up Copilot instructions,2025-09-11 13:00:09,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring-actions/templates,479,kok777,期待添加Waline应用,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4779,cnmac,BUG: Modifying pod_cidr via pod_subnet does not take effect,2024-06-20 02:27:58,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,11,cuisongliu,sync-images 在原来的逻辑上添加sealos-cloud 镜像，需要新增版本入参,2025-09-11 13:57:29,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4790,zhubao315,Error during installation: waiting for MongoDB to be ready… Error: signal: killed.,2024-10-28 20:23:47,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,13,cuisongliu,sync-images.sh 实现一下feature的区分,2025-09-11 14:14:55,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4793,camuselliot,Can you add more details about the offline installation of k8s?,2024-10-28 20:23:46,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,15,cuisongliu,修改镜像名字,2025-09-11 14:42:17,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4794,he-aook,Failed to add node,2024-11-07 00:09:43,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,17,bearslyricattack,cilium hubble安全性增强,2025-09-12 04:03:31,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4796,dinoallo,BUG: template frontend leaves zombie `git` processes,2024-06-25 06:18:03,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,18,cuisongliu,devbox如何修改镜像仓库地址,2025-09-14 10:48:43,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4797,ricardolrl,BUG: clusterimages build error,2024-11-07 00:09:42,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,19,cuisongliu,对象存储使用的service是LB 方式，有泄露风险,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4802,fu7100,BUG: sealos registry copy无法鉴权通过，即便执行过sealos login命令，依然会提示：authentication required,2024-10-28 20:23:44,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,20,cuisongliu,无法渲染grafana-operator 的chart,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4809,bxy4543,BUG: delete node error: failed to run checker: containerd is installed on xxx please uninstall it first,2024-07-02 09:28:09,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,21,cuisongliu,其他任务 TOD 待办,2025-09-19 13:34:42,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4814,nlqiong-me,BUG: Error: run chmod to rootfs failed: exit status 1,2024-10-28 20:23:45,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,22,cuisongliu,优化项目  image-shim 动态加载,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4825,zeje,rockylinux,2024-06-29 04:35:28,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,23,cuisongliu,合规检测,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4826,liuchengwen,How to install through sealos when Dockerhub cannot be accessed,2024-09-26 01:28:18,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,24,cuisongliu,公有云- wasmPlugins,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4829,gclm,BUG: Failed to add node node,2024-07-02 07:12:01,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,25,cuisongliu,公有云-监控,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4836,SupRenekton,"BUG: brief descricontainer_linux.go:318: starting container process caused ""process_linux.go:281: applying cgroup configuration for process caused \""No such device or address\""""ption of the bug",2024-11-10 10:08:52,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,26,cuisongliu,openebs 默认的优先级太低了,2025-09-19 13:06:49,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4839,mudevai,Request of Adding API documentation for developers,2024-11-07 00:09:41,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,27,cuisongliu,sealos项目结构统计,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4840,wneessen,Chore: Replace go-gomail/gomail with wneessen/go-mail,2024-11-26 07:01:35,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,28,cuisongliu,20250402 连接冲突导致 kubelet 无法连接 api server,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4848,yangxggo,"BUG: upgrade from k8s v1.26.x to v1.27.y , kubelet restart failed",2024-07-09 01:13:42,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,29,cuisongliu,etcd event 拆分,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4856,yangxggo,"BUG: add nodes after upgrading, the version installed on the newly added nodes is incorrect",2024-07-09 01:12:29,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,30,dinoallo,2025 Q2 Higress 性能优化,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4861,saashqdev,BUG: CockroachDB stops install process,2024-07-06 00:37:58,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,31,dinoallo,2025 Q3 Devbox & Containerd 性能优化,2025-09-29 01:56:35,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4869,lllicg,failed to delete node,2024-09-20 12:06:40,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,32,dinoallo,Cost Center 流量模块,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4871,SupRenekton,"God help me! ! ! Kirin sp3 system arm architecture machine, deploying k8s is stuck here in kubelet startup/etc/kubernetes/manifest static pod, kubelet reports error getting node xxx not found",2024-07-17 03:08:30,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,33,bearslyricattack,vm关闭alertmanager,2025-09-23 11:19:30,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4877,linuxflow-hqukz,/usr/bin/runc is not an executable program,2024-07-10 07:47:19,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,35,nowinkeyy,admin 的集群监控,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4881,MuJianning,The Sealos command line is used to build a K8Sv1.27.14 cluster node on Ubuntu20.04.5. The CPU continues to occupy 1.5 cores.,2024-07-17 03:08:13,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,37,cuisongliu,前端没有开启payment,2025-09-23 14:26:15,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4891,ai-liuys,BUG: brief description of the bug,2024-07-15 03:23:47,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,38,cuisongliu,sealos-enterprise 的 payment不可重入,2025-09-23 14:24:54,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4892,ai-liuys,BUG:  The latest version ( v5.0.0 ) of the sealos privatization deployment will fail due to a public image pull issue,2024-07-17 03:07:09,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,39,cuisongliu,小强数据库备份,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4913,zaunist,BUG: non-admin user can not deploy app on v5.0.0,2024-08-01 16:54:37,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,40,cuisongliu,labring4docker 的 curl-kubectl 镜像丢失,2025-09-24 06:51:35,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4914,zuoFeng59556,Docs: demo video,2024-07-22 04:27:27,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,45,cuisongliu,参数调优,2025-09-24 11:30:00,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4923,Forfires,ARM nodes join x86 clusters to form heterogeneous clusters.,2024-07-24 13:56:34,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,46,cuisongliu,修改containerd的版本号 区分上游版本和自己更改的版本,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4933,mingmingshiliyu," failed to pull and unpack image \""registry.k8s.io/etcd:3.5.6-0",2024-11-29 06:37:59,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,47,cuisongliu,支持GPU,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4942,einnse,BUG: brief description of the bug,2024-12-10 01:38:54,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,48,cuisongliu,sealos add 需要支持 env 参数,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4951,suntiexuan,为集群添加node节点时报错 Kubefile  sha256 sum not match,2024-12-10 01:38:53,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,49,cuisongliu,devboxscheduler,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4955,baodelu,How does sealos specify docker's data storage directory and modify bip during initialization?,2024-12-10 01:38:55,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,52,cuisongliu,费用支持,2025-09-27 07:06:05,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4956,mkshift,"sealos 5.0,  self domain",2024-12-10 01:38:55,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,56,cuisongliu,rootfs的联系方式变更,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4962,kinbod,sealos-cloud-5.0.0 install failed,2024-10-17 04:34:11,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,57,cuisongliu,admin 默认密码随机,2025-10-05 16:09:41,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4965,jeven2016,"BUG: failed to mount: mounting ""default-qbfp1r97"" container ""default-qbfp1r97"": saving updated state for build container",2024-12-18 05:27:34,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,58,cuisongliu,etc 支持自定义目录,2025-09-29 02:05:03,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4966,zlwzlwzlw,"centos7 with kernel 5.6.14  install and  failed to pull image ""k8s.gcr.io/pause:3.2""",2024-08-16 08:31:52,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,60,cuisongliu,深信服内核检测不通过,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4977,ttsdmmn,Mirror pull failed during offline deployment,2024-08-15 15:03:15,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,61,cuisongliu,支持 IPV6,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4978,ttsdmmn,Failed to download image during offline deployment,2024-12-18 05:27:34,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,62,cuisongliu,模版仓库bitnami问题,2025-10-01 04:23:59,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4985,TingqiaoXu,BUG: brief description of the bug,2024-12-23 21:37:33,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos-pro,63,cuisongliu,插件化devbox sql,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4994,JACKCHEN99,support install k8s cluster  with mixed architectures,2025-01-14 03:58:23,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4995,malone231214,BUG: brief description of the bug,2024-08-23 12:37:59,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,4997,lllicg,Support modifying kubelet rootdir when installing k8s cluster,2024-09-26 01:27:33,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5007,zijiren233,BUG: sealos reset nil pointer,2024-12-22 17:19:02,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5029,snakeliwei,BUG: There is a fake ip:10.103.97.2 in the Clusterfile with sealos v5.0.0 gen,2024-09-11 06:01:59,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5033,biao-lvwan,BUG: deploy nginx Error: can't apply application type images only since RootFS type image is not applied yet,2024-09-11 06:00:21,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5054,gitnehc,BUG: brief description of the bug panic: runtime error: invalid memory address or nil pointer dereference,2025-01-09 18:58:19,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5065,Qiuqi777,etc/sealos/.env: No such file or directory,2024-09-18 08:54:09,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5083,weironz,"BUG:  warn image tar config is not exists,skip",2025-01-14 03:58:24,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5106,sharkat,sealos run Error: signal: killed,2024-09-26 09:52:41,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5107,sharkat,sealos add node Error: master not allow empty,2024-09-27 05:14:44,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5152,clstech,How to disable verification for adding custom domain names,2025-02-26 03:33:15,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5155,alltobebetter,BUG: Problem adding custom domain name to sealos.io,2024-10-18 13:08:46,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5176,VocabVictor,Does the official intend to develop third-party or custom application template deployment?,2025-02-27 12:45:57,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5179,biao-lvwan,registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.22.17  install error,2025-02-27 12:45:56,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5180,cuisongliu,BUG: can't get local addresses in single node,2025-02-27 12:45:56,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5183,fu7100,I want to independently deploy etcd to a host outside the cluster. Does sealos support offline deployment of etcd?,2025-03-01 01:51:34,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5184,dxygit1,install Cilium version 1.16.0  error,2024-12-03 05:08:48,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5185,AutuSnow,BUG: brief description of the bug,2025-03-01 03:51:35,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5200,imococo,"Singapore cloud development ID: pxyyxos06z cannot be started, cannot be stopped, and cannot be deleted.",2025-03-10 04:46:02,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5201,wenbo-quan,vue application cannot connect to cursor,2025-03-10 04:46:03,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5211,cfy3133,About the local existing code associated with the remotely created Devbox project,2025-03-16 16:10:07,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5213,liseri,"Sealos v5.0.1 self-hosted installation failed, stuck at the “run launchpad monitoring” step.",2025-01-07 10:41:48,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5231,qikaih,BUG: brief description of the bug,2025-06-26 18:31:15,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5250,camilamacedo86,:warning: Action Required: Replace Deprecated gcr.io/kubebuilder/kube-rbac-proxy,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5283,Ironeie,"BUG: error when upgrade kuberenetes from v1.29.7 to v1.30.5, can not mix '--config' with arguments [certificate-renewal]",,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5303,villain6666,BUG: sealos reset Command Resets Entire Cluster Instead of Specified Node,2025-04-23 16:06:14,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5332,liseri,BUG: frontend devbox ingress host is not correct,2025-03-10 03:17:01,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5355,allran,sealos add can not visit network,2025-05-21 21:00:21,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5358,lin-calvin,the ` tailscale-options` envoy filter dosn't pass headscale's `Upgrade: tailscale-control-protocol` to backend,2025-05-24 20:04:09,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5372,jemerci,"Docs: devbox plugin file , how  to download it?",2025-02-26 00:19:42,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5375,docker-master,= Is it OK to deploy sealos for a video version? Now these look a little dizzy😵‍💫,2025-08-30 10:30:06,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5376,steinvenic,BUG: Error: client rate limiter Wait returned an error: context deadline exceeded,2025-02-16 04:07:14,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5377,wscjxky,BUG: 禁止匿名登录，anonymous-auth=false，节点notready,2025-06-16 20:50:58,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5384,zhuyoulong,The system provides a non-root-run version of sealos,2025-06-19 16:30:49,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5388,houbaionee,"sealos 5.0.1 An error was reported when installing k8s 1.21 and below, and the installation of 1.27.7 was successful.",2025-02-24 01:51:39,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5396,fu7100,BUG: Offline mode deployment encounters problem of still pulling the network image,2025-02-21 11:17:48,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5397,zhaoyangpp,BUG: Error: payload does not match any of the supported image formats,2025-06-22 01:17:00,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5407,maybe-why-not,BUG: failed to run checker: containerd is installed on 192.168.110.132:22 please uninstall it first,2025-02-25 08:51:01,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5420,zhuyoulong,"Supports sealos gen to generate ipv6 Clusterfile, and can be successfully deployed",2025-07-15 17:30:10,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5442,zuoFeng59556,update readme,2025-03-06 12:47:24,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5455,hubyao,BUG: Error: run chmod to rootfs failed: exit status 1,2025-07-08 13:20:31,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5469,BussanQ,Is it supported run app image on existing k8s clusters?,2025-03-30 05:14:59,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5488,lhsaq2009,"After installation, there is no master?",2025-03-17 12:30:32,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5498,lhsaq2009,How to automatically default and avoid interactive input Do you want to continue on 'haisen1' cluster? Input 'haisen1' to continue,2025-03-26 03:51:18,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5516,dinoallo,Tracking issue for Github Actions workflow files reworking,2025-08-25 07:48:45,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5531,Zoey-Zhang922,正式应用无法拉取镜像,2025-04-17 06:35:04,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5558,cx2c,Feature: install cloud miss devbox runtime,2025-08-30 10:29:40,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5570,lingdie,"BUG: jaevor/go-nanoid deleted, replace to github.com/matoous/go-nanoid/v2 v2.1.0",,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5571,shadowlaser,BUG: install success but doesn't work,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5577,monshunter,BUG: image pull failed,2025-07-24 06:47:27,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5596,dwtyxugy,"When installing, I get an error saying that port 6433 is already in use.",2025-08-30 10:28:23,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5604,maolchen,BUG: sealos自定义配置更新不生效,2025-05-23 06:42:43,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5608,gitfxx,podIP段默认使用了100地址，导致某些场景下网段冲突不通,2025-05-23 06:43:05,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5614,A2ureStone,BUG: data race between control plane components and host modification,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5616,notionev,BUG:sealos 重启机器后 集群无法自动重启,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5634,maqun02,One-click to start or stop billing,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5637,yifeng-x,离线部署sealos，镜像拉取失败导致部署失败,2025-07-24 06:47:27,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5638,yifeng-x,The latest version ( v5.0.1 ) of the sealos deployment k8s will fail due to a public image pull,2025-07-30 06:12:02,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5640,JocelynFloresz,Feature: 什么时候支持Flutter,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5642,zhuyoulong,BUG: sealos自定义安装，k8s版本v1.33.1部署集群失败,2025-07-30 06:08:46,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5644,zhuyoulong,sealos部署k8s v1.32.5集群错误,2025-07-24 06:47:27,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5652,cnfatal,Feature: Allow save multi-arch images on `sealos build`,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5657,912988434,BUG: sealos v5.0.1 从v1.30.x升级到1.31.x失败，can not mix '--config' with arguments [certificate-renewal],,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5661,yanweiyi11,注销账号后，再次登录一直显示验证码错误，怎么解决？,2025-08-06 02:16:14,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5663,fengjing1009,BUG: Sealos集群镜像同步失败,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5667,shunzi115,sealos 如何构建离线kubesphere 部署镜像,2025-08-05 07:48:39,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5668,allenonline,Can Sealos set proxy address to connect docker.io?,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5676,qq547475331,BUG: 没有手机号登陆了,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5677,Axm11,BUG: failed to init masters: master pull image failed,2025-07-24 06:47:27,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5682,xiao1wen2,coredns解析异常,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5687,xcbeyond,BUG: MacOS arm环境sealos二进制文件执行失败,2025-07-22 15:16:20,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5688,bestgopher,BUG: deploy k8s cluster failed,2025-07-30 03:20:06,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5689,neo515,又见崩溃,2025-08-07 06:55:39,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5694,zinda2000,【紧急求助】Sealos 安装的 K8s v1.27.7 集群，kube-apiserver 启动参数被强制固定，无法修改,2025-07-18 23:59:04,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5697,chenbsun,sealos怎么将它所在的节点delete,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5711,Xiaomajohn,BUG: 域名配置,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5721,cuisongliu,BUG: ci error sealos container build,2025-08-02 09:46:35,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5722,cuisongliu,Feature: change sealos LICENSE task,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5747,Conmi-WhiteJoker,想问问未来会不会像kubesphere这样删库？,2025-08-05 08:54:09,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5755,cuisongliu,Feature: bump golangci-lint to v2.3.0,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5756,cuisongliu,Feature: bump golangci-lint to v2.3.0 service/devbox,2025-08-20 09:49:39,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5758,zijiren233,Feature: bump golangci-lint to v2.3.0 service/vlogs,2025-08-30 10:32:05,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5759,zijiren233,Feature: bump golangci-lint to v2.3.0 service/pay,2025-08-20 09:49:13,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5760,zijiren233,Feature: bump golangci-lint to v2.3.0 service/exceptionmonitor,2025-08-20 09:49:14,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5761,zijiren233,Feature: bump golangci-lint to v2.3.0 service,2025-08-30 10:31:57,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5762,zijiren233,Feature: bump golangci-lint to v2.3.0 service/account,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5763,zijiren233,Feature: bump golangci-lint to v2.3.0 service/database,2025-08-20 09:49:14,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5764,zijiren233,Feature: bump golangci-lint to v2.3.0 service/launchpad,2025-08-20 09:49:14,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5765,zijiren233,Feature: bump golangci-lint to v2.3.0 controllers/db/adminer,2025-08-20 09:49:15,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5766,zijiren233,Feature: bump golangci-lint to v2.3.0 controllers/devbox,2025-08-20 09:49:15,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5767,zijiren233,Feature: bump golangci-lint to v2.3.0 controllers/pkg,2025-08-20 09:49:15,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5768,zijiren233,Feature: bump golangci-lint to v2.3.0 controllers/resources,2025-08-20 09:49:15,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5769,zijiren233,Feature: bump golangci-lint to v2.3.0 controllers/user,2025-08-20 09:49:16,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5770,zijiren233,Feature: bump golangci-lint to v2.3.0 controllers/terminal,2025-08-20 09:49:16,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5771,zijiren233,Feature: bump golangci-lint to v2.3.0 controllers/job/init,2025-08-20 09:49:16,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5772,zijiren233,Feature: bump golangci-lint to v2.3.0 controllers/job/heartbeat,2025-08-20 09:49:17,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5773,zijiren233,Feature: bump golangci-lint to v2.3.0 controllers/app,2025-08-20 09:49:17,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5774,zijiren233,Feature: bump golangci-lint to v2.3.0 controllers/license,2025-08-20 09:49:17,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5775,zijiren233,Feature: bump golangci-lint to v2.3.0 controllers/objectstorage,2025-08-20 09:49:18,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5776,zijiren233,Feature: bump golangci-lint to v2.3.0 controllers/db,2025-08-20 09:49:18,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5777,zijiren233,Feature: bump golangci-lint to v2.3.0 controllers/account,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5778,zijiren233,Feature: bump golangci-lint to v2.3.0 controllers/node,2025-08-20 09:49:18,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5779,zijiren233,Feature: bump golangci-lint to v2.3.0 lifecycle,2025-08-19 08:43:37,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5787,cuisongliu,Feature: auto assign action,2025-08-25 07:52:58,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5789,cuisongliu,Feature: set Kubelet new default version ,2025-08-28 09:02:57,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5797,benz9527,BUG: sealos install kubernetes 1.31.10 with cilium 1.16.1 with kubeproxyreplacement error,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5804,dinoallo,BUG: duplicate `pods` enforcements in `enforceNodeAllocatable` in `/var/lib/kubelet/config.yaml`,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5827,43669522,sealos演示视频更新,2025-08-22 03:06:40,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5844,cuisongliu,add CODE_OF_CONDUCT for sealos,2025-08-28 06:57:22,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5846,cuisongliu,add SECURITY.md for sealos,2025-09-01 05:08:21,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5848,cuisongliu,add CODEOWNERS for sealos,2025-08-21 04:48:07,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5850,cuisongliu,remove sync images task,2025-08-22 08:17:09,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5852,junlintianxiazhifulinzhongguo,BUG: sealos 添加节点，发现ssh端口被固定成22，无法使用自定义端口,2025-08-21 09:12:38,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5853,cuisongliu,BUG:  issues-translator is not work,2025-08-29 02:30:09,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5878,dzy888,mount-cgroup,2025-09-11 10:34:05,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5895,cuisongliu,✨ Set up Copilot instructions,2025-08-29 03:12:13,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5898,cuisongliu,测试的问题,2025-08-29 02:31:47,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5899,cuisongliu,GitHub Translator version error,2025-08-29 03:04:08,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5901,cuisongliu,测试翻译插件 || Test translation plugin,2025-08-29 03:11:50,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5902,cuisongliu,Docs: LICENSE change declaration,2025-08-29 09:17:13,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5906,cuisongliu,BUG: release cloud error,2025-08-30 06:37:44,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5924,cuisongliu,BUG: delete admin and devbox deploy,2025-09-03 04:59:00,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5945,renziyou,什么时候支持微软的MSSQL || When will Microsoft's MSSQL be supported,2025-09-08 08:58:43,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5952,kevinydsk,BUG: desktop-frontend-xxx can't be running,2025-09-11 10:33:35,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5972,cuisongliu,pr week report,2025-09-11 11:01:15,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5975,cuisongliu,Feature: sealos v2 registry design,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5978,cuisongliu,Feature: image shim online regsitry auto load,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5979,cuisongliu,BUG: images shim not sport local  registry,2025-09-14 11:57:18,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5987,aiqianbao1314,"BUG: sealos run 安装1.31及以上版本的k8s时，全部会安装失败！ || BUG: sealos run When installing k8s version 1.31 and above, all installations will fail!",2025-09-16 14:03:24,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,5992,ATCThunder,fail to install,2025-09-18 02:24:34,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,6007,cuisongliu,Feature: admission webhook release tag,2025-09-20 08:42:53,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,6036,menchao1992,Docs: brief description of your suggestion || Docs: brief description of your suggestions,2025-09-24 15:06:54,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,6056,ATCThunder,使用官方脚本，安装失败,2025-09-29 08:33:22,CLOSED,false,2025-10-06 00:31:01.942733+08
+labring/sealos,6057,xiachenrui,BUG: install fail,,OPEN,false,2025-10-06 00:31:01.942733+08
+labring/sealos,6062,ancienter,BUG: VIP Conflicts with Service Subnet in Sealos,2025-09-30 13:06:43,CLOSED,false,2025-10-06 00:31:01.942733+08
