@@ -8497,7 +8497,7 @@
     "分支": "",
     "提交内容": "* 修改模板名为 OpenDeepWiki\n\n* 修改readme链接为直链",
     "提交信息": "Signed-off-by: Zihao Zheng <117024973+ifzzh@users.noreply.github.com>",
-    "已提交天数": 123,
+    "已提交天数": 124,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/templates"
   },
@@ -8666,7 +8666,7 @@
     "分支": "",
     "提交内容": "Signed-off-by: Carson Yang <yangchuansheng33@gmail.com>",
     "提交信息": "Signed-off-by: Carson Yang <yangchuansheng33@gmail.com>",
-    "已提交天数": 145,
+    "已提交天数": 146,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/templates"
   },
