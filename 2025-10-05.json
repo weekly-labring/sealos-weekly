@@ -476,7 +476,7 @@
     "分支": "",
     "提交内容": "Signed-off-by: yy <lingdie.yy@outlook.com>\n",
     "提交信息": "Signed-off-by: yy <lingdie.yy@outlook.com>",
-    "已提交天数": 409,
+    "已提交天数": 410,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/cri-shim"
   },
@@ -2309,7 +2309,7 @@
     "分支": "",
     "提交内容": "* feat(install): add install script to wait for prisma-migrate-deploy pods to complete\n\nSigned-off-by: cuisongliu <cuisongliu@qq.com>\n\n* feat(install): add install script to wait for prisma-migrate-deploy pods to complete\n\nSigned-off-by: cuisongliu <cuisongliu@qq.com>\n\n* fix(Kubefile): remove install.sh execution from CMD in Kubefile\n\nSigned-off-by: cuisongliu <cuisongliu@qq.com>\n\n---------\n\nSigned-off-by: cuisongliu <cuisongliu@qq.com>",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 25,
+    "已提交天数": 26,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos"
   },
@@ -3427,7 +3427,7 @@
     "分支": "",
     "提交内容": "* feat: Add gift code management and payment/refund system\n\n- Add gift code creation and management functionality\n- Add payment record tracking system\n- Add refund management features\n- Update database schemas (global and region)\n- Enhance user management components\n- Add localization support for new features\n\n* update\n\n* delelt\n\n* delelt",
     "提交信息": "Signed-off-by: huanglvjing <2357331198@qq.com>",
-    "已提交天数": 47,
+    "已提交天数": 48,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos-admin"
   },
@@ -3505,7 +3505,7 @@
     "分支": "",
     "提交内容": "",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 4,
+    "已提交天数": 5,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos-pro"
   },
@@ -4415,7 +4415,7 @@
     "分支": "",
     "提交内容": "",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 8,
+    "已提交天数": 9,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos-pro"
   },
@@ -4428,7 +4428,7 @@
     "分支": "",
     "提交内容": "",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 8,
+    "已提交天数": 9,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos-pro"
   },
@@ -8211,7 +8211,7 @@
     "分支": "",
     "提交内容": "Signed-off-by: Carson Yang <yangchuansheng33@gmail.com>",
     "提交信息": "Signed-off-by: Carson Yang <yangchuansheng33@gmail.com>",
-    "已提交天数": 65,
+    "已提交天数": 66,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/templates"
   },
@@ -8263,7 +8263,7 @@
     "分支": "",
     "提交内容": "Signed-off-by: Carson Yang <yangchuansheng33@gmail.com>",
     "提交信息": "Signed-off-by: Carson Yang <yangchuansheng33@gmail.com>",
-    "已提交天数": 67,
+    "已提交天数": 68,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/templates"
   },
@@ -8614,7 +8614,7 @@
     "分支": "",
     "提交内容": "* add eqmx template.\n\nSigned-off-by: zzjin <tczzjin@gmail.com>\n\n* Add template ghcr push permission.\n\nSigned-off-by: zzjin <tczzjin@gmail.com>\n\n---------\n\nSigned-off-by: zzjin <tczzjin@gmail.com>",
     "提交信息": "Signed-off-by: zzjin <zzjin@users.noreply.github.com>",
-    "已提交天数": 131,
+    "已提交天数": 132,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/templates"
   },
@@ -8848,7 +8848,7 @@
     "分支": "",
     "提交内容": "Signed-off-by: zzjin <tczzjin@gmail.com>",
     "提交信息": "Signed-off-by: zzjin <zzjin@users.noreply.github.com>",
-    "已提交天数": 192,
+    "已提交天数": 193,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/templates"
   },
