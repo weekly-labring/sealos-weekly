@@ -1464,7 +1464,7 @@
     "分支": "",
     "提交内容": "Signed-off-by: Nixieboluo <me@sagirii.me>",
     "提交信息": "Signed-off-by: Nixieboluo <me@sagirii.me>",
-    "已提交天数": 9,
+    "已提交天数": 10,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos"
   },
@@ -1646,7 +1646,7 @@
     "分支": "",
     "提交内容": "fix: bug",
     "提交信息": "Signed-off-by: Alex Lee <3076438032@qq.com>",
-    "已提交天数": 12,
+    "已提交天数": 13,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos"
   },
@@ -2218,7 +2218,7 @@
     "分支": "",
     "提交内容": "* feat(desktop): join discord prompt\n\nSigned-off-by: Nixieboluo <me@sagirii.me>\n\n* chore(desktop): add missing config example\n\nSigned-off-by: Nixieboluo <me@sagirii.me>\n\n---------\n\nSigned-off-by: Nixieboluo <me@sagirii.me>",
     "提交信息": "Signed-off-by: Nixieboluo <me@sagirii.me>",
-    "已提交天数": 23,
+    "已提交天数": 24,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos"
   },
@@ -5338,7 +5338,7 @@
     "分支": "",
     "提交内容": "Signed-off-by: cuisongliu <cuisongliu@qq.com>\n",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 43,
+    "已提交天数": 44,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/cluster-image"
   },
@@ -5689,7 +5689,7 @@
     "分支": "",
     "提交内容": "",
     "提交信息": "Signed-off-by: Yun Pan <dinoallo@netc.it>",
-    "已提交天数": 127,
+    "已提交天数": 128,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/cluster-image"
   },
@@ -8978,7 +8978,7 @@
     "分支": "",
     "提交内容": "* Update JupyterDockerStacks template\n\n* Add persistent volume to JupyterDockerStacks template\n\n* Fix persistent volume naming for JupyterDockerStacks template",
     "提交信息": "Signed-off-by: Yun Pan <dinoallo@netc.it>",
-    "已提交天数": 213,
+    "已提交天数": 214,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/templates"
   }
