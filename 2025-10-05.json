@@ -398,7 +398,7 @@
     "分支": "",
     "提交内容": "Signed-off-by: yy <lingdie.yy@outlook.com>\n",
     "提交信息": "Signed-off-by: yy <lingdie.yy@outlook.com>",
-    "已提交天数": 408,
+    "已提交天数": 409,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/cri-shim"
   },
@@ -1633,7 +1633,7 @@
     "分支": "",
     "提交内容": "* refactor(deploy): migrate Hubble deployment to Helm charts\n\nSigned-off-by: cuisongliu <cuisongliu@qq.com> directory\nSigned-off-by: cuisongliu <cuisongliu@qq.com>\n\n* refactor(workflows): remove save-sealos job and update sealos installation\n\nSigned-off-by: cuisongliu <cuisongliu@qq.com>\n\n---------\n\nSigned-off-by: cuisongliu <cuisongliu@qq.com> directory\nSigned-off-by: cuisongliu <cuisongliu@qq.com>",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 12,
+    "已提交天数": 13,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos"
   },
@@ -1971,7 +1971,7 @@
     "分支": "",
     "提交内容": "fix:use session storage",
     "提交信息": "Signed-off-by: asterRyan <137432928+PeiranXu-108@users.noreply.github.com>",
-    "已提交天数": 18,
+    "已提交天数": 19,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos"
   },
@@ -2075,7 +2075,7 @@
     "分支": "",
     "提交内容": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 19,
+    "已提交天数": 20,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos"
   },
@@ -2660,7 +2660,7 @@
     "分支": "tag: v0.1.0-beta1",
     "提交内容": "",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 11,
+    "已提交天数": 12,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos-admin"
   },
@@ -2829,7 +2829,7 @@
     "分支": "",
     "提交内容": "",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 30,
+    "已提交天数": 31,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos-admin"
   },
@@ -3635,7 +3635,7 @@
     "分支": "",
     "提交内容": "",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 5,
+    "已提交天数": 6,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos-pro"
   },
@@ -3648,7 +3648,7 @@
     "分支": "",
     "提交内容": "",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 5,
+    "已提交天数": 6,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos-pro"
   },
@@ -4324,7 +4324,7 @@
     "分支": "",
     "提交内容": "",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 7,
+    "已提交天数": 8,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos-pro"
   },
@@ -4558,7 +4558,7 @@
     "分支": "",
     "提交内容": "",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 9,
+    "已提交天数": 10,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos-pro"
   },
@@ -4571,7 +4571,7 @@
     "分支": "",
     "提交内容": "",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 9,
+    "已提交天数": 10,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos-pro"
   },
@@ -4766,7 +4766,7 @@
     "分支": "",
     "提交内容": "",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 10,
+    "已提交天数": 11,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring/sealos-pro"
   },
@@ -5091,7 +5091,7 @@
     "分支": "HEAD -> main, origin/main",
     "提交内容": "Signed-off-by: cuisongliu <cuisongliu@qq.com>\n",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 35,
+    "已提交天数": 36,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/cluster-image"
   },
@@ -5143,7 +5143,7 @@
     "分支": "",
     "提交内容": "Signed-off-by: cuisongliu <cuisongliu@qq.com>\n",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 43,
+    "已提交天数": 44,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/cluster-image"
   },
@@ -5156,7 +5156,7 @@
     "分支": "",
     "提交内容": "Signed-off-by: cuisongliu <cuisongliu@qq.com>\n",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 43,
+    "已提交天数": 44,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/cluster-image"
   },
@@ -5169,7 +5169,7 @@
     "分支": "",
     "提交内容": "Signed-off-by: cuisongliu <cuisongliu@qq.com>\n",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 43,
+    "已提交天数": 44,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/cluster-image"
   },
@@ -5767,7 +5767,7 @@
     "分支": "",
     "提交内容": "",
     "提交信息": "Signed-off-by: Yun Pan <dinoallo@netc.it>",
-    "已提交天数": 128,
+    "已提交天数": 129,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/cluster-image"
   },
@@ -5780,7 +5780,7 @@
     "分支": "",
     "提交内容": "",
     "提交信息": "Signed-off-by: Yun Pan <dinoallo@netc.it>",
-    "已提交天数": 128,
+    "已提交天数": 129,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/cluster-image"
   },
@@ -5819,7 +5819,7 @@
     "分支": "",
     "提交内容": "",
     "提交信息": "Signed-off-by: Yun Pan <dinoallo@netc.it>",
-    "已提交天数": 129,
+    "已提交天数": 130,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/cluster-image"
   },
@@ -5832,7 +5832,7 @@
     "分支": "",
     "提交内容": "",
     "提交信息": "Signed-off-by: Yun Pan <dinoallo@netc.it>",
-    "已提交天数": 129,
+    "已提交天数": 130,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/cluster-image"
   },
@@ -6469,7 +6469,7 @@
     "分支": "",
     "提交内容": "",
     "提交信息": "Signed-off-by: sealos-ci-robot <109538726+sealos-ci-robot@users.noreply.github.com>",
-    "已提交天数": 72,
+    "已提交天数": 73,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/sync-aliyun"
   },
@@ -6482,7 +6482,7 @@
     "分支": "",
     "提交内容": "Signed-off-by: cuisongliu <cuisongliu@qq.com>\n",
     "提交信息": "Signed-off-by: cuisongliu <cuisongliu@qq.com>",
-    "已提交天数": 72,
+    "已提交天数": 73,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/sync-aliyun"
   },
@@ -6495,7 +6495,7 @@
     "分支": "",
     "提交内容": "",
     "提交信息": "Signed-off-by: sealos-ci-robot <109538726+sealos-ci-robot@users.noreply.github.com>",
-    "已提交天数": 72,
+    "已提交天数": 73,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/sync-aliyun"
   },
@@ -8237,7 +8237,7 @@
     "分支": "",
     "提交内容": "Signed-off-by: Carson Yang <yangchuansheng33@gmail.com>",
     "提交信息": "Signed-off-by: Carson Yang <yangchuansheng33@gmail.com>",
-    "已提交天数": 67,
+    "已提交天数": 68,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/templates"
   },
@@ -8549,7 +8549,7 @@
     "分支": "",
     "提交内容": "Signed-off-by: zzjin <tczzjin@gmail.com>",
     "提交信息": "Signed-off-by: zzjin <zzjin@users.noreply.github.com>",
-    "已提交天数": 127,
+    "已提交天数": 128,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/templates"
   },
@@ -8692,7 +8692,7 @@
     "分支": "",
     "提交内容": "",
     "提交信息": "Signed-off-by: jingyang <72259332+zjy365@users.noreply.github.com>",
-    "已提交天数": 150,
+    "已提交天数": 151,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/templates"
   },
@@ -8913,7 +8913,7 @@
     "分支": "",
     "提交内容": "Signed-off-by: Carson Yang <yangchuansheng33@gmail.com>",
     "提交信息": "Signed-off-by: Carson Yang <yangchuansheng33@gmail.com>",
-    "已提交天数": 210,
+    "已提交天数": 211,
     "报告时间": "2025-10-05",
     "解析路径": "/Users/cuisongliu/Workspaces/go/src/github.com/labring-actions/templates"
   },
